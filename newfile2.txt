@@ -1,1 +1,2 @@
-este es un nuevo archivo de la rama A
+# este es un nuevo archivo de la rama A
+este archivo ha sido modificado en la rama B
