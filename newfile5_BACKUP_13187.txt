@@ -1,7 +1,0 @@
-my post to the repository: newfile5.txt
-<<<<<<< HEAD
-
-these are some modified codelines (repoA)
-=======
-estos son cambios para el repo B.
->>>>>>> 065517e... Changes added to newfile5.txt
